@@ -1,0 +1,51 @@
+[{
+        "country": "USA",
+        "gdp": 19.39,
+        "text": "The U.S. has retained its position of being the world’s largest economy since 1871. The size of the U.S. economy was at $19.39 trillion in 2017 in nominal terms and is expected to reach $20.41 trillion in 2018. The U.S. is often dubbed as an economic superpower and that's because the economy constitutes almost a quarter of the global economy backed by advanced infrastructure, technology, and abundance of natural resources. While the U.S. economy is service-oriented, contributing almost 80% its GDP, it's manufacturing merely contributes about 15% of its output. "
+    },
+    {
+        "country": "China",
+        "gdp": 12.01,
+        "text": "China has experienced exponential growth over the past few decades, breaking the barriers of a centrally planned, closed economy to evolve into a manufacturing and exporting hub of the world. China is often referred to as the \"world’s factory\" given its huge manufacturing and export base. However, over the years, the role of services has gradually increased and that of manufacturing as a contributor to GDP has declined relatively. Back in 1980, China was the seventh-largest economy with a GDP of $305.35 billion while the size of the U.S. then was $2.86 trillion. Since it initiated market reforms in 1978, the Asian giant has seen an economic growth averaging 10% annually. In recent years, the pace of growth has slowed although it remains high in comparison to its peer nations. "
+    },
+    {
+        "country": "Japan",
+        "gdp": 4.87,
+        "text": "Japan is the third-largest economy in the world with a GDP of $4.87 trillion in 2017. The economy is expected to cross the $5 trillion mark in 2018. The financial crisis of 2008 rocked the Japanese economy and it’s been a challenging time for its economy since then. The global crisis triggered recession followed by weak domestic demand and huge public debt. When the economy was beginning to recover, it suffered a massive earthquake which hit the country socially and economically. While the economy has broken the deflationary spiral, economic growth remains muted. "
+    },
+    {
+        "country": "Germany",
+        "gdp": 3.68,
+        "text": "Germany is not just Europe’s largest economy but also the strongest. On the global scale, it is the fourth-largest economy in terms of nominal GDP with a $3.68 trillion GDP. The size of its GDP in terms of purchasing power parity is $4.17 trillion while its GDP per capita is $44,549.69 (17th place). Germany was the third-largest economy in nominal terms in 1980 with a GDP of $850.47 billion. "
+    },
+    {
+        "country": "UK",
+        "gdp": 2.62,
+        "text": "he United Kingdom, with a $2.62 trillion GDP is the fifth-largest economy in the world. When compared in terms of GDP PPP, UK slips to the ninth spot with a GDP (PPP) of $2.91 trillion. It ranks 23rd in terms of GDP per capita which is $39,734.59. Its nominal GDP is estimated at $2.96 trillion during 2018, but its ranking is expected to slide to the seventh spot by 2023 with a GDP of $3.47 trillion. "
+    },
+    {
+        "country": "India",
+        "gdp": 2.61,
+        "text": "India is the fastest-growing trillion-dollar economy in the world and the sixth-largest with a nominal GDP of $2.61 trillion. India is poised to become the fifth-largest economy overtaking the United Kingdom by 2019 as per the IMF projection. The country ranks third when GDP is compared in terms of purchasing power parity at $9.45 trillion. When it comes to calculating GDP per capita, India’s high population drags its nominal GDP per capita down to $1,982. The Indian economy was just $189.438 billion in 1980, ranking 13th on the list globally. India’s growth rate is expected to rise from 6.7% in 2017 to 7.3% in 2018 and 7.5% in 2019, as drags from the currency exchange initiative and the introduction of the goods and services tax fade according to IMF. "
+    },
+    {
+        "country": "France",
+        "gdp": 2.5,
+        "text": "France, the most-visited country in the world and is the third-largest economy of Europe and the seventh-largest in the world with a nominal GDP of $2.58 trillion. Its GDP in terms of purchasing power parity is around $2.83 trillion. The country offers a high standard of living to its people as reflected in its GDP per capita of $44,549. In recent years, the economic growth has slowed resulting in unemployment which has placed immense pressure on the government to reboot the economy. The World Bank has recorded unemployment rates at 10% during 2014, 2015 and 2016. During 2017, it declined to 9.681%."
+    },
+    {
+        "country": "Brazil",
+        "gdp": 2.05,
+        "text": "Brazil is the largest and most populous nation in Latin America. With a nominal GDP of $2.05 trillion, Brazil is the eighth-largest economy in the world. The nation which had been riding on the commodity wave suffered multiple setbacks with the end of the commodity supercycle in addition to internal problems of corruption and political uncertainty which dampened the investment and business environment. "
+    },
+    {
+        "country": "Italy",
+        "gdp": 1.93,
+        "text": "With a nominal GDP of $1.93 trillion, Italy is the world’s ninth-largest economy. Its economy is expected to expand to $2.5 trillion by 2023. In terms of GDP (PPP), its economy is worth $2.31 trillion and a per capita GDP of $31,984. Italy—a prominent member of the Eurozone and has been facing deep political and economic chaos. Its unemployment rate continues to be in double-digits while its public debt remains sticky at around 132% of GDP. On the positive side, exports and business investment are driving the economic recovery. The economy clocked 0.9% and 1.5% in 2016 and 2017 respectively. It is projected to edge down to 1.2% in 2018 and 1.0% in 2019. "
+    },
+    {
+        "country": "Canada",
+        "gdp": 1.65,
+        "text": "Canada displaced Russia to take the 10th spot in 2015 and has retained its position since then. Canada's nominal GDP is currently at $1.65 trillion and is expected to touch $1.79 trillion in 2018 and $2.43 trillion by 2023. Its per capita GDP of $45,077 is ranked 20th globally while its GDP of $1.76 trillion in terms of PPP pulls it down to the 17th spot. The country has contained the level of unemployment and is likely to further shrink. While services are the major sector, manufacturing is the cornerstone of is economy with 68% of its exports constituting of merchandise exports. Canada is laying a lot of emphasis on manufacturing which is crucial to its future economic growth. Canada registered a growth of 3% in 2017 vis-à-vis 1.4% in 2016 and is expected to grow at 2% during 2018 and 2019."
+    }
+]
