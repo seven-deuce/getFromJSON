@@ -22,7 +22,6 @@
 
     function calcBarLength(number) {
         if (window.innerWidth > 620) {
-            console.log("kkk")
             return (number * 500) / 20
         } else {
             return (number * 300) / 20
