@@ -14,10 +14,6 @@ app.set('views', './views')
 app.get("/", (req, res) => { res.render("index") })
 
 
-
-
-
-
 //handeling wrong requests at the end
 app.use(function(req, res) {
     res.status(404);
